@@ -1,0 +1,78 @@
+/* Header-Styles */
+.header{
+    background-image: url('/images/banner/banner2.png');
+   background-repeat: no-repeat;
+    padding: 40px;
+    text-align: right;
+    
+    
+
+}
+.header-title{
+    margin-left: 350px;
+    margin-right: 60px;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    align-items: center;
+    color: #151414;
+    
+    
+}
+.header-description{
+    margin-left: 400px;
+    margin-right: 50px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+}
+.button{
+    margin-right: 50px;
+    width: 160px;
+    height: 80px;
+    color: white;
+    text-align: center;
+    font-weight: 700px;
+    border-radius: 5px;
+    background: #F15B22;
+
+}
+/* main-styles */
+.div-1{
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+
+}
+.div-1-text{
+    text-align: left;
+    margin-left: 50px;
+}
+.div-2{
+    
+    margin-top: 50px;
+}
+.div-2-title{
+    text-align: center;
+    
+}
+.div-2-contan{
+    text-align: center;
+    display: flex;
+    
+}
+.div-3{
+    background-image: url("./images/watch.png");
+    margin: 100px 50px;
+    border-radius: 8px;
+    
+}
