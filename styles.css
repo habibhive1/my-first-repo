@@ -62,17 +62,47 @@
     margin-top: 50px;
 }
 .div-2-title{
-    text-align: center;
+    text-align: center;    
     
 }
 .div-2-contan{
-    text-align: center;
-    display: flex;
     
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 50PX;
+    /* align-items: center;
+    justify-content:center;
+     */
 }
 .div-3{
     background-image: url("./images/watch.png");
-    margin: 100px 50px;
-    border-radius: 8px;
-    
+   margin: 0 200px; 
+   width: 1140px;
+    height: 300px;
+   
+}
+.div-3-title{
+    padding: 50%;
+}
+.div-2-contant-child{
+
+    width: 50PX;
+    align-items: center;
+    justify-content:center;
+}
+.footer{
+    display: flex;
+    margin-top: 50px;
+    color: white;
+    background-color: #151414;
+    padding: 30px;
+    align-items: center;
+}
+.footer-div-1{
+    margin-right: 30%;
+}
+.footer-btn{
+    background-color: white;
+    text-decoration: rgba(247, 102, 6, 0.87;
+    margin-top: 20px;
 }
